@@ -21,3 +21,27 @@ merespon kondisi kenyataan dengan membayangkan.
 ```
 </div>
 
+<br>
+
+# Pertemuan 5
+
+## Pengolahan Sinyal
+
+1. Domain Waktu
+2. Domain Frekuensi
+3. Hybrid (w + f)
+
+* Domain Waktu
+    * Peak
+    * Zero Cross
+    * Mean / Amplitudo
+    * Durasi Aktivitas
+    * Abs -> Mean
+    * Sliding Window
+
+
+<!-- form
+load file
+menggunakan file -->
+
+
