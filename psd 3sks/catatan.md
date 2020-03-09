@@ -15,9 +15,7 @@
 * klasifikasi
 
 ```
-Otak dapat diatur/diprogram untuk membantu
-merespon kondisi kenyataan dengan membayangkan.
-(teori cybernetics).
+Otak dapat diatur/diprogram untuk membantu merespon kondisi kenyataan dengan membayangkan. (teori cybernetics).
 ```
 </div>
 
